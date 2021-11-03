@@ -1,0 +1,10 @@
+{
+    "key1": 1,
+    "Key2": [2, 3, 4],
+    "Key3":
+    {
+        "SubKey1": "test string",
+        "IsAlive": true,
+        "SubKey2": null
+    }
+}

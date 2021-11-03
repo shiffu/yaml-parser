@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/jcpennel/dev/cpp/parser/build",
+  "command": "/usr/bin/g++-7   -I/home/jcpennel/dev/cpp/parser/include  -g   -std=gnu++1z -Winvalid-pch -x c++-header -include /home/jcpennel/dev/cpp/parser/build/CMakeFiles/parser.dir/cmake_pch.hxx -o CMakeFiles/parser.dir/cmake_pch.hxx.gch -c /home/jcpennel/dev/cpp/parser/build/CMakeFiles/parser.dir/cmake_pch.hxx.cxx",
+  "file": "/home/jcpennel/dev/cpp/parser/build/CMakeFiles/parser.dir/cmake_pch.hxx.cxx"
+},
+{
+  "directory": "/home/jcpennel/dev/cpp/parser/build",
+  "command": "/usr/bin/g++-7   -I/home/jcpennel/dev/cpp/parser/include  -g   -std=gnu++1z -Winvalid-pch -include /home/jcpennel/dev/cpp/parser/build/CMakeFiles/parser.dir/cmake_pch.hxx -o CMakeFiles/parser.dir/main.cpp.o -c /home/jcpennel/dev/cpp/parser/main.cpp",
+  "file": "/home/jcpennel/dev/cpp/parser/main.cpp"
+}
+]
